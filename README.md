@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoppinRocks
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning .net freamwork and java
+- 👀  I'm a Programmer.
+- 🌱 I’m currently learning .net freamwork and java but right now I'm a front end developer.
 - 📫 How to reach me vikas.poppin@hotmail.com
 
 <!---
